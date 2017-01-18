@@ -1,3 +1,5 @@
+Slider Particle for Gantry 5 Forked from https://github.com/lauroguedes/particle-slider
+
 # particle-slider
 Particle Slider for Gantry 5
 
